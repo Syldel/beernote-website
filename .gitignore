@@ -1,5 +1,6 @@
 .idea
 build
+dist
 node_modules
 typings
 *.bak
@@ -7,3 +8,4 @@ typings
 .DS_Store
 Thumbs.db
 src/assets/fonts/bootstrap/*
+.publish
